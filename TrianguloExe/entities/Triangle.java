@@ -1,4 +1,4 @@
-package Parte1.TrianguloExe.entities;
+package exercicio.TrianguloExe.entities;
 
 public class Triangle {
 

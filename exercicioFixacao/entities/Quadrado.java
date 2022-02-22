@@ -1,4 +1,4 @@
-package Parte1.exercicioFixacao.entities;
+package exercicio.exercicioFixacao.entities;
 
 public class Quadrado {
 

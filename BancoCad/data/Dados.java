@@ -1,4 +1,4 @@
-package Parte1.BancoCad.data;
+package exercicio.BancoCad.data;
 
 public class Dados {
 

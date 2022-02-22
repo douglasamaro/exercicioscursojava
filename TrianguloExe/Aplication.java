@@ -1,6 +1,6 @@
-package Parte1.TrianguloExe;
+package exercicio.TrianguloExe;
 
-import Parte1.TrianguloExe.entities.Triangle;
+import exercicio.TrianguloExe.entities.Triangle;
 
 import java.util.Scanner;
 

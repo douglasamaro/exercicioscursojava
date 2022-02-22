@@ -1,6 +1,6 @@
-package Parte1.exercicioDollar;
+package exercicio.exercicioDollar;
 
-import Parte1.exercicioDollar.util.Calculator;
+import exercicio.exercicioDollar.util.Calculator;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
-package Parte1.exercicioFixacao;
+package exercicio.exercicioFixacao;
 
-import Parte1.exercicioFixacao.entities.Quadrado;
+import exercicio.exercicioFixacao.entities.Quadrado;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
-package Parte1.exercicioFixacao;
+package exercicio.exercicioFixacao;
 
-import Parte1.exercicioFixacao.entities.Salario;
+import exercicio.exercicioFixacao.entities.Salario;
 
 import java.util.Scanner;
 

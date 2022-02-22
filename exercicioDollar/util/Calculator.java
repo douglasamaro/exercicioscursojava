@@ -1,4 +1,4 @@
-package Parte1.exercicioDollar.util;
+package exercicio.exercicioDollar.util;
 
 public class Calculator {
 

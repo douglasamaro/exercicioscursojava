@@ -1,12 +1,15 @@
-package Parte1.BancoCad;
+package exercicio.BancoCad;
 
-import Parte1.BancoCad.data.Dados;
+import exercicio.BancoCad.data.Dados;
 
 import java.util.Scanner;
 
 public class MainExe {
 
+    SQLiteDatabase db;
     public static void main(String[] args) {
+
+
 
         double taxa = -5;
         Scanner ler = new Scanner(System.in);

@@ -1,6 +1,6 @@
-package Parte1.Produto;
+package exercicio.Produto;
 
-import Parte1.Produto.entities.Product;
+import exercicio.Produto.entities.Product;
 
 import java.util.Scanner;
 
@@ -11,12 +11,16 @@ public class Aula {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter data ");
-        System.out.println("");
 
         //inputs
         System.out.print("Name: "); String name = sc.nextLine();
         System.out.print("Price: "); double price = sc.nextDouble();
+
+
         Product product = new Product(name, price);
+
+     //   product.setName("computer");
+
 
         System.out.println(product);
         System.out.println("");
